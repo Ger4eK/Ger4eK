@@ -14,7 +14,8 @@
 ### My links:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 
 
 [linkedin]: https://www.linkedin.com/in/oleh-hreskiv-439314221
+[instagram]: https://www.instagram.com/oleh_hreskiv/
