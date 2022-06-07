@@ -34,8 +34,9 @@
 
 ### Top Languages:
 
+<details>
  <img align="left" alt="Oleh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ger4eK" />
-
+</details>
 
                                                        
                                                           
