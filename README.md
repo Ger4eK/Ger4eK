@@ -1,5 +1,9 @@
 ### Hi there, I'm Oleh 👋
+
 <img align='right' alt='GIF' src='https://github.com/Ger4eK/Ger4eK/blob/main/6vIk.gif' width='500' height='320' />
+
+
+##I'm a Junior Front-end Developer!
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning everything
