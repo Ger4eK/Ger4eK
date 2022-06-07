@@ -1,5 +1,5 @@
 ### Hi there, I'm Oleh 👋
-<img align='right' alt='GIF' src='https://github.com/Ger4eK/Ger4eK/blob/main/main.gif' width='500' height='320' />
+<img align='right' alt='GIF' src='https://github.com/Ger4eK/Ger4eK/blob/main/6vIk.gif'  />
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning everything
