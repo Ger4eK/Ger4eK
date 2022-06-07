@@ -13,7 +13,7 @@
 
 ### My links:
 
-[![website](./icons/icons8-linkedin-circled.gif)]
+[![linkedin](./icons/icons8-linkedin-circled.gif)]
 
 
 
