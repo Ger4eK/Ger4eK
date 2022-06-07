@@ -13,9 +13,12 @@
 
 ### My links:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/Ger4eK/Ger4eK/blob/main/icons/linkedin.png" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/Ger4eK/Ger4eK/blob/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/Ger4eK/Ger4eK/blob/main/icons/instagram.png" />][instagram]
 
+<br/>
+
+### Languages and Tools:
 
 [linkedin]: https://www.linkedin.com/in/oleh-hreskiv-439314221
 [instagram]: https://www.instagram.com/oleh_hreskiv/
