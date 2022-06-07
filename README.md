@@ -1,5 +1,5 @@
 ### Hi there, I'm Oleh 👋
-<img align='right' alt='GIF' src='[https://dribbble.com/shots/11419536-Deep-Working](https://dribbble.com/shots/11419536/attachments/3034920?mode=media)' width='500' height='320' />
+<img align='right' alt='GIF' src='https://cdn.dribbble.com/users/1365253/screenshots/11419536/media/35cb4024aca4bfdf92e00c885e017702.gif' width='500' height='320' />
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning everything
