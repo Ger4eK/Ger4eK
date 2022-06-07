@@ -13,7 +13,8 @@
 
 ### My links:
 
+[![website](./icons/icons8-linkedin-circled.gif)]
 
-[![website](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg)](https://www.linkedin.com/in/oleh-hreskiv-439314221#gh-light-mode-only)
 
 
+[linkedin]: https://www.linkedin.com/in/oleh-hreskiv-439314221
