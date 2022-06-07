@@ -14,6 +14,6 @@
 ### My links:
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oleh-hreskiv-439314221#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oleh-hreskiv-439314221#gh-dark-mode-only)
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg)](https://www.linkedin.com/in/oleh-hreskiv-439314221#gh-light-mode-only)
+
 
