@@ -11,5 +11,9 @@
 - 🤔 I’m looking for nice job. 
 - ⚡ Fun fact: I love burgers and music.
 
+### My links:
 
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oleh-hreskiv-439314221#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oleh-hreskiv-439314221#gh-dark-mode-only)
 
