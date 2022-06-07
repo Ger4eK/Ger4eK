@@ -31,10 +31,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br/>
-<br/>
+
+### Most Used Languages:
 
 <details>
- <summary>:zap: Most Used Languages</summary>
+ <summary>:zap</summary>
  <img align="left" alt="Oleh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ger4eK&show_icons=true&hide_border=true" />
 </details>
 
