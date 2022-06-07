@@ -13,8 +13,8 @@
 
 ### My links:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/Ger4eK/Ger4eK/blob/main/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/Ger4eK/Ger4eK/blob/main/icons/instagram%20(1).png" />][instagram]
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/Ger4eK/Ger4eK/blob/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="26px" src="https://github.com/Ger4eK/Ger4eK/blob/main/icons/instagram%20(1).png" />][instagram]
 
 <br/>
 
@@ -29,6 +29,10 @@
 <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+### Most Used Languages
+
+ <img align="left" alt="Oleh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ger4eK />
 
 [linkedin]: https://www.linkedin.com/in/oleh-hreskiv-439314221
 [instagram]: https://www.instagram.com/oleh_hreskiv/
