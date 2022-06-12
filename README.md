@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for a nice job. 
 - 🥅 2022 Goals: Learn more about JS and find a job
-- ⚡ Fun fact: I love burgers and music.
+- ⚡ Fun fact: I love burgers, pepsi and music.
 
 ### My links:
 
